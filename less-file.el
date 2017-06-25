@@ -1,4 +1,4 @@
-;;; less-file.el -- Given a pathname run less in a line mode ansi-term.  -*- lexical-binding: t; -*-
+;;; less-file.el --- Given a pathname run less in a line mode ansi-term.  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2017 Ben Hyde
 
